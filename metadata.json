@@ -1,0 +1,6 @@
+{
+  "name": "Gita Prasasti - Portofolio Administrasi Kesehatan",
+  "description": "Portofolio profesional Gita Prasasti, S.Kep - Spesialis Administrasi Kesehatan, Rekam Medis Klinis, dan Pelayanan Berorientasi Pasien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
