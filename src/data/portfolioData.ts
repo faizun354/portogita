@@ -102,7 +102,7 @@ export const EDUCATION_DATA: EducationItem[] = [
     period: "2022 — 2026",
     degree: "Sarjana Keperawatan (S1 Keperawatan, S.Kep)",
     institution: "Universitas IIKNU",
-    badge: "IPK: 3.85 / 4.00",
+    badge: "IPK: 3.88 / 4.00",
     badgeType: "gpa",
     description: "Menyelesaikan kurikulum intensif 4 tahun dengan fokus pada asuhan keperawatan medikal-bedah, keperawatan anak, kesehatan komunitas, serta protokol tata kelola rekam medis rumah sakit.",
     tags: ["Farmakologi Klinis", "Manajemen RS", "Keselamatan Pasien"]
