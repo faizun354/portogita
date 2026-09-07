@@ -57,7 +57,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCvModal }) => {
           <div className="mt-10 pt-6 border-t border-[#d8e6de] w-full sm:w-auto flex items-center gap-6 sm:gap-10">
             <div>
               <span className="font-['Plus_Jakarta_Sans',sans-serif] text-3xl sm:text-4xl font-bold text-[#032517] block leading-none">
-                3.85
+                3.88
               </span>
               <span className="text-xs font-semibold text-[#424843] uppercase tracking-wider block mt-1.5">
                 IPK Akademik
@@ -89,10 +89,10 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCvModal }) => {
           <div className="relative w-[320px] sm:w-[420px] h-[320px] sm:h-[420px]">
             {/* Amber Sun Backing Shape */}
             <div className="absolute -inset-2 bg-[#feae2c] rounded-full transform -rotate-3 scale-95 opacity-90 shadow-xl"></div>
-            
+
             {/* Soft Green Ambient Disc */}
             <div className="absolute inset-4 bg-[#c7ebd4] rounded-full transform rotate-6"></div>
-            
+
             {/* Profile Image Container */}
             <div className="absolute inset-0 rounded-full overflow-hidden bg-white shadow-2xl p-3 border-4 border-white">
               <img
